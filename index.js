@@ -8,6 +8,6 @@ function happyHolidaysTo(name) {
   return 'Happy holidays, you!'
 }
 
-function happyHolidayTo(name, ) {
+function happyHolidayTo(name, holiday) {
   return 'Happy ${holiday}'
 }
